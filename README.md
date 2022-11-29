@@ -35,3 +35,10 @@ Merge Selection
 This script has been tested on 3DS Max 2022+, but should work on all versions from 2017 onward.
 
 If you have any issues running the script, feel free to reach out and I'll do my best to assist.
+
+
+## Examples
+
+<img src="https://raw.githubusercontent.com/Bailey3D/3DSMax-MergeSelection/main/images/01.png" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/Bailey3D/3DSMax-MergeSelection/main/images/02.png" width="100%"/>
